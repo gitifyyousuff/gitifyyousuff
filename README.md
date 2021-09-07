@@ -10,4 +10,4 @@ def yousuff():
   return ∞
 ```
 ## Connect me on:
-- LinkedIn: https://www.linkedin.com/in/mohamed-yousuff-667627b4
+- LinkedIn: https://www.linkedin.com/in/mohamed-yousuff-n-667627b4/
