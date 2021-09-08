@@ -8,7 +8,7 @@
 ```python
 def yousuff():
   skills_with_proficiency = {'Python': 'Advance', 'DB': 'Intermidiate', 'ML': 'Advance', 'HTML & CSS': 'Intermideate','java':'Intermidiate'}
-  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask']
+  tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'Data visualization','Supervised ML','Unsupervised ML']
   return ∞
 ```
 
